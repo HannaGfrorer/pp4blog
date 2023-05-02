@@ -1,1 +1,1 @@
-web: gunicorn pp4blog.wsgi
+web: gunicorn food.wsgi
